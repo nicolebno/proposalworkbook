@@ -1,7 +1,21 @@
 {
-    "primaryColor": "#266B8E",
-    "secondaryColor": "#FFC66C",
-    "fontFamily": "Calibri"
-   
+    "branding": {
+      "primaryColor": "#f2f2f2",        
+      "secondaryColor": "#266b8E",      
+      "accentColor": "#FFC66C",         
+      "fontFamily": "calibri"       
+    },
+    "theme": {
+      "backgroundColor": "<HEX-CODE>",    
+      "headerColor": "<HEX-CODE>",        
+      "textColor": "<HEX-CODE>"           
+    },
+    "formats": {
+      "date": "MM/DD/YYYY",
+      "currency": "$#,##0.00"
+    },
+    "uiDefaults": {
+      "defaultContributionType": "flat"     
+    }
   }
   
